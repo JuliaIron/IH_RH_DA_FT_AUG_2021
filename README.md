@@ -1,68 +1,6 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 2**
-
-
-<table>
-  <tr>
-   <td>9:00 -
-<p>
-09:15
-   </td>
-   <td>09:15 - 09:50
-   </td>
-   <td>09:50 -
-<p>
-10:15
-   </td>
-   <td>10:15 - 10:25
-   </td>
-   <td>10:25 - 11:50
-   </td>
-   <td>11:50 - 12:00
-   </td>
-   <td>12:00 - 12:25
-   </td>
-   <td>13:00 - 14:15
-   </td>
-   <td>14:15 - 18:00
-   </td>
-   <td>15:30 - 16:00
-   </td>
-   <td>16:00 -17:00
-<p>
-Azure
-   </td>
-  </tr>
-  <tr>
-   <td>Warm up
-   </td>
-   <td>Final Project
-<p>
-Q&A
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture + 10 min Q&A
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Lunch Break
-   </td>
-   <td>Final Project 
-   </td>
-   <td>Elevator Pitches
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
 
 **Table of Contents**
 
